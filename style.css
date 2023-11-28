@@ -1,0 +1,42 @@
+.navbar{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+body{
+
+margin: 0;
+}
+.logo{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+
+.navlinks a {
+color:purple;
+text-decoration: none;
+font-size: 20px;
+font-weight: bold;
+transition: color 0.3s ease-in-out;
+}
+
+.navlinks {
+    display: flex;
+    list-style: none;
+
+}
+
+.navlinks li{
+    margin: 30px;
+}
+
+.navlinks a:hover {
+    color: brown;
+
+}
+colo
